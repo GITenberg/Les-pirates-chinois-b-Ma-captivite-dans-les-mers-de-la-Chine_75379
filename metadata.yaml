@@ -1,0 +1,32 @@
+_repo: Les-pirates-chinois-b-Ma-captivite-dans-les-mers-de-la-Chine_75379
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Loviot, Fanny
+    gutenberg_agent_id: '36831'
+    url: http://www.gutenberg.org/2009/agents/36831
+    wikipedia: https://fr.wikipedia.org/wiki/Fanny_Loviot
+description: ''
+gutenberg_issued: '2025-02-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75379'
+language: fr
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=coo.31924023257599&seq=28
+pgterms:marc905: 20241102100058loviot
+pgterms:marc906: '1860'
+pgterms:marc907: FR
+production_note: Chuck Greif and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from images made available by the HathiTrust Digital Library.)
+publication_note: '  $aParis :$bLibrairie Nouvelle, $c1860.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Voyages around the world'
+- !lcsh 'Loviot, Fanny -- Travel'
+- !lcsh 'Pirates -- China'
+- !lcc 'G'
+- GITenberg
+title: 'Les pirates chinois : $b Ma captivité dans les mers de la Chine'
+url: http://www.gutenberg.org/ebooks/75379
